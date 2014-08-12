@@ -1,13 +1,13 @@
 //
-//  ViewController.h
+//  FoTacts_Success.h
 //  FoTacts
 //
-//  Created by Mike Holp on 1/31/13.
+//  Created by Michael Holp on 2/23/13.
 //  Copyright (c) 2013 Mike Holp. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface FoTacts_Success : UIViewController
 
 @end
